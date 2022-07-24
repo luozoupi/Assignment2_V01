@@ -1,0 +1,9 @@
+java -jar CreateWhiteboard.jar
+
+java -jar CreateWhiteboard.jar localhost 8000
+
+java -jar CreateWhiteboard.jar localhost 8000 ManagerYuebo
+
+java -jar JoinWhiteBoard.jar
+
+java -jar JoinWhiteBoard.jar localhost 8000 Yuebo1
